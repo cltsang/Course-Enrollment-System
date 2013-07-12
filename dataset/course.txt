@@ -1,0 +1,21 @@
+CSCI1030	Hands-on Introduction to Java	1	null
+CSCI1040	Hands-on Introduction to Python	1	null
+CSCI1130	Introduction to Computing Using Java	3	null
+CSCI2100	Data Structures	3	CSCI1130
+CSCI3100	Software Engineering	3	CSCI1130
+CSCI3120	Compiler Construction	3	CSCI3130
+CSCI3130	Formal Languages and Automata Theory	3	CSCI2100
+CSCI3170	Introduction to Database Systems	3	CSCI2100
+CSCI3260	Principles of Computer Graphics	3	CSCI2100
+CSCI3250	Computers and Society	2	null
+CSCI4120	Principles of Computer Game Software	3	CSCI2100,CSCI3260
+IERG1001	Information Engineering in Society	2	null
+IERG3310	Computer Networks	3	null
+IERG4210	Web Programming and Security	3	null
+STAT3008	Applied Regression Analysis	3	null
+STAT4003	Statistical inference	3	null
+STAT4005	Time Series	3	null
+DSME4200	Business Web Design and Authoring	3	null
+UGED1111	Logic	2	null
+UGED1112	Logic and Argumentation	3	null
+UGED1810	Critical Thinking	2	null

@@ -1,0 +1,92 @@
+* {
+	font-family: 'Verdana', 'Tahoma', 'Arial'; 
+	font-size: 11pt; 
+	color: #000000;
+}
+
+body{
+	background-color: #FFF;
+	margin: 0px;
+	text-align: center;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+table th{
+	border: 1px solid #333;
+	padding: 3px;
+	color: #FFF;
+	background-color: #555;
+	white-space:nowrap;
+	height: 40px;
+}
+
+table td{
+	border: 1px solid #999;
+	padding: 3px;
+	background-color: #EEE;
+	height: 40px;
+	text-align: center;
+	font-weight: bold;
+	color: #333;
+}
+
+table td.time{
+	border: 1px solid #555;
+	background-color:#777;
+	color: #DFDFDF;
+	text-align: center;
+	font-weight: bold;
+}
+
+div#main{
+	margin-top: 5px;
+	width: 910px;
+	margin: 0px auto;
+	text-align: left;
+}
+
+div#content{
+	background-color: #FFF;
+	width: 870px !important;
+	width: 910px;
+	padding: 20px;
+	line-height: 18px;
+	text-align: center;
+}
+
+div#error{
+	text-align: left;
+	padding-top: 5px;
+	color: red;
+}
+
+div#success{
+	text-align: left;
+	padding-top: 5px;
+	color: green;
+}
+
+div.box{
+	text-align: left;
+	padding: 5px;
+	font-weight: bold;
+}
+
+div.box2{
+	text-align: left;
+	padding: 5px;
+	font-weight: normal;
+}
+
+input.field{
+	background-color: #EEE;
+	border: 1px solid #555;
+}
+
+select.field{
+	background-color: #EEE;
+	border: 1px solid #555;
+}

@@ -1,0 +1,17 @@
+1155000001	Danny Yip	Computer Science
+1155000002	Donald Cheung	Computer Science
+1155000003	John Ng	Integrated BBA
+1155000004	David Lam	Computer Engineering
+1155000005	Peter Lo	Statistics
+1155000006	Raymond Chan	Chinese Language and Literature
+1155000007	Eric Ho	Computer Engineering
+1155000008	Ken Tso	Computer Engineering
+1155000009	Wenis Lui	integrated BBA
+1155000010	Michael Lo	Economics
+1155000011	Vincent Yik	Computer Science
+1155000012	Antonio Szeto	Computer Science
+1155000013	Sam Siu	Information Engineering
+1155000014	Henry Chan	Information Engineering
+1155000015	Brian Fung	Economics
+1155000016	Jackie Liu	Computer Science
+1155000017	Alex Wong	Computer Science
